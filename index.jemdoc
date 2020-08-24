@@ -1,0 +1,117 @@
+# jemdoc: menu{MENU}{index.html}
+# jemdoc: addcss{jemdoc.css}, notime
+= Juncai He
+何俊材
+
+~~~
+{}{img_left}{JuncaiHe.png}{Juncai He}{200 px}{240 px}
+= [http://www.personal.psu.edu/juh380/ Juncai He]
+\n
+R.H. Bing Postdoctoral Fellow \n
+#({{<a href="http://newzealand.com"><img src="nz.png" alt="NZ" /></a>}}) \n
+[https://www.ma.utexas.edu Department of Mathematics]\n
+[https://www.utexas.edu The University of Texas at Austin]\n
+2515 Speedway, RLM \n
+Austin, TX 78712 \n\n
+Phone: +1 616-227-5319 \n
+Email: [jhe@utexas.edu] \n
+
+#Advisor: [http://www.personal.psu.edu/jxx1/ Professor Jinchao Xu]
+~~~
+
+#== Contact
+#Email: [juh380@psu.edu] \n
+#Phone: +1 616-227-5319
+#~~~
+#{}{raw}
+#<a href="https://twitter.com/jem_nz" class="twitter-follow-button">Follow @jem_nz</a>
+#<script>!function(d,s,id){var
+#js,fjs=d.getElementsByTagName(s)[0],p=/^http:/#.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/#widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document,
+#'script', 'twitter-wjs');</script>
+#~~~
+
+== About me
+I am currently a R.H. Bing postoctoral fellow in [https://www.ma.utexas.edu the Department of Mathematics] at [https://www.utexas.edu UT Austin]. 
+
+
+I received the B.S. degree in Mathematics and Applied Mathematics from [http://http://www.scu.edu.cn Sichuan University] in 2014.
+In Summer of 2019, I received my Ph.D. degree in Computational Mathematics under the supervision of [http://www.personal.psu.edu/jxx1/ Prof. Jinchao Xu] and [http://dsec.pku.edu.cn/~hujun/ Prof. Jun Hu] at [https://www.pku.edu.cn Peking University] at Beijing, China. From 2019 to 2020, I worked as a Postdoctoral Scholar suprevised by [http://www.personal.psu.edu/jxx1/ Prof. Jinchao Xu] in [https://ccma.math.psu.edu The Center for Computational Mathematics and Application (CCMA)] in the [https://math.psu.edu/ Department of Mathematics] at [https://www.psu.edu/ The Pennsylvania State University, University Park].
+
+
+
+
+== Research
+- Deep Learning, Stochastic Optimization.
+- Numerical Analysis, Finite Element Methods, Multigrid Methods.
+
+My research interests are in algorithm development and theoretical analysis for machine learning and numerical methods for partial differential equations (PDEs). I have received broad and in-depth training in finite element, multigrid (MG) methods and machine learning. I have studied the finite element exterior calculus (FEEC) method both for its theoretical analysis and also the application in structure-preserving discretization for multi-physical systems. I have also applied techniques from numerical PDEs for understanding and improving deep learning models and algorithms in data science. In particular, I have worked on three different but related topics:
+. finite element methods and deep neural networks (DNNs);
+. multigrid methods and architectures of convolutional neural networks;
+. stochastic optimization methods.
+
+# == Software
+# - [http://cvxgen.com/ CVXGEN], an online tool for creating extremely fast
+#  solvers
+# - [http://cvxmod.net/ CVXMOD], a Python tool for convex optimization
+# - [http://jemdoc.jaboc.net/ jemdoc], a light, $\mbox{\LaTeX}$ equation
+#  supporting, text-based markup language for creating websites
+
+== Publications
+#- [http://stanford.edu/~boyd/papers/code_gen_impl.html CVXGEN: A Code Generator
+#  for Embedded Convex Optimization], J. Mattingley and S. Boyd,
+#  /Optimization and Engineering/, 13(1):1--27, 2012
+- *J. He*, X. Jia, J. Xu, L. Zhang and L. Zhao. Make $\ell_1$ Regularization Effective in Training Sparse CNN. /Computational Optimization and Applications/. 2020. [https://link.springer.com/article/10.1007/s10589-020-00202-1 https://doi.org/10.1007/s10589-020-00202-1] [https://arxiv.org/abs/1807.04222 ArXiv: 1807.04222v4].
+- *J. He*, L. Li, J. Xu, and Z. Zheng. ReLU Deep Neural Networks and linear Finite Elements. /Journal of Computational Mathematics/. 38(3): 502-527, 2020. [http://www.global-sci.org/intro/article_detail/jcm/15798.html doi:10.4208/jcm.1810-m2018-0096].
+- *J. He*, K. Hu, J. Xu. Generalized Gaffney Inequality and Discrete Compactness for Discrete Differential Forms. /Numerische Mathematik/. 2019. [https://link.springer.com/article/10.1007%2Fs00211-019-01076-0 https://doi.org/10.1007/s00211-019-01076-0].
+- *J. He* and J. Xu. MgNet: A Unified Framework of Multigrid and Convolutional Neural Network. /Science China Mathematics/. 62(7): 1331–1354, 2019. [https://link.springer.com/article/10.1007%2Fs11425-019-9547-2 https://doi.org/10.1007/s11425-019-9547-2].
+- *J. He*, Y. Chen, L. Zhang and J. Xu. Constrained Linear Data-feature Mapping in Image Classification. [https://arxiv.org/abs/1911.10428 ArXiv:
+1911.10428]. 2019.
+
+== Education
+- Ph.D., Computational Mathematics, [https://www.pku.edu.cn Peking University], 2014-2019 \n
+  Advisors: [http://www.personal.psu.edu/jxx1/ Prof. Jinchao Xu] and [http://dsec.pku.edu.cn/~hujun/ Prof. Jun Hu] \n
+  Thesis: Finite Element Methods and Deep Neural Networks
+- Visiting Ph.D. Research Scholar, [https://ccma.math.psu.edu Center for Computational Mathematics and Application (CCMA)], Department of Mathematics, The Pennsylvania State University, Feb. 2016 - Jul. 2016, Oct. 2017 - Mar. 2018 and Mar. 2019 - May 2019.
+- B.S., Mathematics and Applied Mathematics, [http://http://www.scu.edu.cn Sichuan University], 2010-2014.
+
+== Teaching
+#Instructor for:
+#- Introduction to Linear Dynamical Systems
+#  ([http://www.stanford.edu/class/ee263s/ EE263s]), Stanford University, Summer 2009
+#- [http://www.kuleuven.be/optec/athens/2010 Embedded and Convex Optimization for
+#  Control], one week course, KU Leuven, Belgium, March 2010
+Teaching assistant at Penn State and Peking University for:
+- [http://multigrid.org/wiki/index.php/2019/07/07/summer-course-in-peking-university/ An Introduction to Deep Learning], Penn State Education Abroad Summer Course, Jul. 6-27, 2019
+- An Introduction for Applied Mathematics, Peking University, Feb. 2017 - Jun. 2017
+- Advanced Linear Algebra I, Peking University, Sept. 2016 - Jan. 2017
+- Calculus, Peking University, Sept. 2015 - Jan. 2016
+
+== The Workshops/ Minisymposium Organized
+- [https://sites.psu.edu/ccma/2020workshop/ Workshop on Mathematical Machine Learning and Application] (Organizing Committee), April 27-17 (postponed), 2020, Penn State University, USA.
+- Minisymposium on “[http://www.multigrid.org/img2019/img2019/Index/minisymposium.html Multigrid and Machine Learning]” (Co-organizer with [https://blog.nus.edu.sg/matzuows/ Prof. Zuowei Shen] and [http://www.personal.psu.edu/jxx1/ Prof. Jinchao Xu]) in [http://www.multigrid.org/img2019/img2019/Index/index.html International Multigrid Conference], August 11-16, 2019, Kunming, China.
+- [http://www.math.pku.edu.cn//kxyj/xzky/83830.htm 4th PKU Workshop on Numerical Methods for PDEs] (Organizing Committee), October 30-31, 2018,
+Peking University, China.
+- [http://www.math.pku.edu.cn//kxyj/xzky/82520.htm The First PKU Elite PHD Candidates Workshop on Computational Mathematics and 4th Beijing Graduate Students Workshop on Computational Mathematics] (Chair of the Organizing Committee), September 9-12, 2018, Peking University, China.
+
+== Presentations
+#- [code_gen_impl_slides.pdf *Code Generation for Embedded Convex Optimization*],
+#  given at Stanford University in October 2010, and [http://www.jpl.nasa.gov/ NASA
+#  JPL] and [http://www.caltech.edu/ Caltech] in November 2010.
+- [http://tianyuanmc.jlu.edu.cn/info/1009/1981.htm Workshop on Computation and Applications of PDEs Based on Machine Learning], Jilin University, Changchun (Online), China, Jul. 2020.
+- [https://ins.sjtu.edu.cn/seminars/2020/03/27/finite-elements-and-deep-neural-networks/1720 Data Science Seminar], Shanghai Jiao Tong University, Shanghai (Online), China, Mar. 2020.
+- “Advances in Multilevel Methods: from PDEs to Data Intensive Studies” and “Multigrid and Machine Learning”, Minisymposiums in [http://www.multigrid.org/img2019/img2019/Index/index.html International Multigrid Conference], Kunming, China, Aug. 2019.
+- Data Science Seminar, Tsinghua University, Beijing, China, May 2019.
+- [http://csiam2018.csp.escience.cn/dct/page/1 16th Annual Meeting of the China Society for Industrial and Applied Mathematics], Chengdu, China, Sept. 2018.
+- [http://www.math.pku.edu.cn//kxyj/xzky/82520.htm The First PKU Elite PHD Candidates Workshop on Computational Mathematics and 4th Beijing Graduate Students Workshop on Computational Mathematics], Peking University, Beijing, China, Sept. 2018.
+- Workshop on Numerical Methods for PDEs, Peking University, Beijing, China, Jul. 2017.
+
+
+
+
+#== Assorted other pages
+#- [lp75.html Extremely short Matlab LP solvers] (fewer than 80 characters
+#  per solver)
+#- [vim.html vim:essentials], a short page describing some of the essential
+#  features of the [http://www.vim.org/ vim] text editor
+#- [matrixmultiply.html Matrix multiplication speeds] in C
+#- Various [computationspeeds.html computation speeds] in C

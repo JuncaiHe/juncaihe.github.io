@@ -81,16 +81,16 @@ My research interests are in algorithm development and theoretical analysis for 
 #- [http://www.kuleuven.be/optec/athens/2010 Embedded and Convex Optimization for
 #  Control], one week course, KU Leuven, Belgium, March 2010
 Instructor at UT Austin for:
-- [https://web.ma.utexas.edu/academics/courses/syllabi/M408K.php M 408K (Differential Calculus)], UT Austin, Aug. 2020 - Dec. 2020
+- [https://web.ma.utexas.edu/academics/courses/syllabi/M408K.php M 408K: Differential Calculus], UT Austin, Aug. 2020 - Dec. 2020
 
 Teaching assistant at Penn State and Peking University for:
-- [http://multigrid.org/wiki/index.php/2019/07/07/summer-course-in-peking-university/ An Introduction to Deep Learning], Penn State Education Abroad Summer Course, Jul. 6-27, 2019
+- MATH 497: Deep Learning Algorithms and Analysis , Penn State University, Jul. 2019
 - An Introduction for Applied Mathematics, Peking University, Feb. 2017 - Jun. 2017
 - Advanced Linear Algebra I, Peking University, Sept. 2016 - Jan. 2017
 - Calculus, Peking University, Sept. 2015 - Jan. 2016
 
 == The Workshops/ Minisymposium Organized
-- [https://sites.psu.edu/ccma/2020workshop/ Workshop on Mathematical Machine Learning and Application] (Organizing Committee), April 27-17 (postponed), 2020, Penn State University, USA.
+- [https://sites.psu.edu/ccma/2020workshop/ Workshop on Mathematical Machine Learning and Application] (Organizing Committee), December 14-16, 2020, Penn State University, USA.
 - Minisymposium on “[http://www.multigrid.org/img2019/img2019/Index/minisymposium.html Multigrid and Machine Learning]” (Co-organizer with [https://blog.nus.edu.sg/matzuows/ Prof. Zuowei Shen] and [http://www.personal.psu.edu/jxx1/ Prof. Jinchao Xu]) in [http://www.multigrid.org/img2019/img2019/Index/index.html International Multigrid Conference], August 11-16, 2019, Kunming, China.
 - [http://www.math.pku.edu.cn//kxyj/xzky/83830.htm 4th PKU Workshop on Numerical Methods for PDEs] (Organizing Committee), October 30-31, 2018,
 Peking University, China.
@@ -100,6 +100,7 @@ Peking University, China.
 #- [code_gen_impl_slides.pdf *Code Generation for Embedded Convex Optimization*],
 #  given at Stanford University in October 2010, and [http://www.jpl.nasa.gov/ NASA
 #  JPL] and [http://www.caltech.edu/ Caltech] in November 2010.
+- [https://ccma.math.psu.edu/2020workshop/ Workshop on Mathematical Machine Learning and Application], Penn State University, University Park (Online), USA, Dec. 2020.
 - [http://tianyuanmc.jlu.edu.cn/info/1009/1981.htm Workshop on Computation and Applications of PDEs Based on Machine Learning], Jilin University, Changchun (Online), China, Jul. 2020.
 - [https://ins.sjtu.edu.cn/seminars/2020/03/27/finite-elements-and-deep-neural-networks/1720 Data Science Seminar], Shanghai Jiao Tong University, Shanghai (Online), China, Mar. 2020.
 - “Advances in Multilevel Methods: from PDEs to Data Intensive Studies” and “Multigrid and Machine Learning”, Minisymposiums in [http://www.multigrid.org/img2019/img2019/Index/index.html International Multigrid Conference], Kunming, China, Aug. 2019.

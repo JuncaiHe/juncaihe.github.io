@@ -46,7 +46,7 @@ In Summer of 2019, I received my Ph.D. degree in Computational Mathematics under
 
 My research interests are in algorithm development and theoretical analysis for machine learning and numerical methods for partial differential equations (PDEs). I have received broad and in-depth training in finite element, multigrid (MG) methods and machine learning. I have studied the finite element exterior calculus (FEEC) method both for its theoretical analysis and also the application in structure-preserving discretization for multi-physical systems. I have also applied techniques from numerical PDEs for understanding and improving deep learning models and algorithms in data science. In particular, I have worked on three different but related topics:
 . finite element methods and deep neural networks (DNNs);
-. multigrid methods and architectures of convolutional neural networks;
+. multigrid methods and architecture of convolutional neural networks;
 . stochastic optimization methods.
 
 # == Software

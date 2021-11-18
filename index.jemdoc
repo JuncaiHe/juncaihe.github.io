@@ -60,14 +60,14 @@ My research interests are in algorithm development and theoretical analysis for 
 #- [http://stanford.edu/~boyd/papers/code_gen_impl.html CVXGEN: A Code Generator
 #  for Embedded Convex Optimization], J. Mattingley and S. Boyd,
 #  /Optimization and Engineering/, 13(1):1--27, 2012
-- *J. He*, L. Li, J. Xu. Approximation Properties of Deep ReLU CNNs. [https://arxiv.org/abs/2109.00190 ArXiv: 2109.00190], 2021.
-- *J. He*, L. Li, J. Xu. ReLU Deep Neural Networks from the Hierarchical Basis Perspective. [https://arxiv.org/abs/2105.04156 ArXiv: 2105.04156], 2021.
-- Q. Chen, W. Hao, *J. He*. Power Series Expansion Neural Network. [https://arxiv.org/abs/2102.13221 ArXiv: 2102.13221], 2021.
-- Q. Chen, W. Hao, *J. He*. A Weight Initialization Based on the Linear Product Structure for Neural Networks. /Applied Mathematics and Computation/. 415, 2022. [https://www.sciencedirect.com/science/article/pii/S0096300321008067?dgcid=coauthor doi.org/10.1016/j.amc.2021.126722] [https://arxiv.org/abs/2109.00125 ArXiv: 2109.00125].
+- Q. Chen, W. Hao and *J. He*. A Weight Initialization Based on the Linear Product Structure for Neural Networks. /Applied Mathematics and Computation/. 415, 2022. [https://www.sciencedirect.com/science/article/pii/S0096300321008067?dgcid=coauthor doi.org/10.1016/j.amc.2021.126722] [https://arxiv.org/abs/2109.00125 ArXiv: 2109.00125].
 - *J. He*, X. Jia, J. Xu, L. Zhang and L. Zhao. Make $\ell_1$ Regularization Effective in Training Sparse CNN. /Computational Optimization and Applications/. 77: 163–182, 2020. [https://link.springer.com/article/10.1007/s10589-020-00202-1 https://doi.org/10.1007/s10589-020-00202-1] [https://arxiv.org/abs/1807.04222 ArXiv: 1807.04222v4].
-- *J. He*, L. Li, J. Xu, and C. Zheng. ReLU Deep Neural Networks and linear Finite Elements. /Journal of Computational Mathematics/. 38(3): 502-527, 2020. [http://www.global-sci.org/intro/article_detail/jcm/15798.html doi:10.4208/jcm.1810-m2018-0096].
-- *J. He*, K. Hu, J. Xu. Generalized Gaffney Inequality and Discrete Compactness for Discrete Differential Forms. /Numerische Mathematik/. 2019. [https://link.springer.com/article/10.1007%2Fs00211-019-01076-0 https://doi.org/10.1007/s00211-019-01076-0].
+- *J. He*, L. Li, J. Xu, and C. Zheng. ReLU Deep Neural Networks and Linear Finite Elements. /Journal of Computational Mathematics/. 38(3): 502-527, 2020. [http://www.global-sci.org/intro/article_detail/jcm/15798.html doi:10.4208/jcm.1810-m2018-0096].
+- *J. He*, K. Hu and J. Xu. Generalized Gaffney Inequality and Discrete Compactness for Discrete Differential Forms. /Numerische Mathematik/. 2019. [https://link.springer.com/article/10.1007%2Fs00211-019-01076-0 https://doi.org/10.1007/s00211-019-01076-0].
 - *J. He* and J. Xu. MgNet: A Unified Framework of Multigrid and Convolutional Neural Network. /Science China Mathematics/. 62(7): 1331–1354, 2019. [https://link.springer.com/article/10.1007%2Fs11425-019-9547-2 https://doi.org/10.1007/s11425-019-9547-2].
+- *J. He*, L. Li and J. Xu. Approximation Properties of Deep ReLU CNNs. [https://arxiv.org/abs/2109.00190 ArXiv: 2109.00190], 2021.
+- *J. He*, L. Li and J. Xu. ReLU Deep Neural Networks from the Hierarchical Basis Perspective. [https://arxiv.org/abs/2105.04156 ArXiv: 2105.04156], 2021.
+- Q. Chen, W. Hao and *J. He*. Power Series Expansion Neural Network. [https://arxiv.org/abs/2102.13221 ArXiv: 2102.13221], 2021.
 - *J. He*, Y. Chen, L. Zhang and J. Xu. Constrained Linear Data-feature Mapping in Image Classification. [https://arxiv.org/abs/1911.10428 ArXiv:
 1911.10428], 2019.
 
@@ -85,11 +85,12 @@ My research interests are in algorithm development and theoretical analysis for 
 #- [http://www.kuleuven.be/optec/athens/2010 Embedded and Convex Optimization for
 #  Control], one week course, KU Leuven, Belgium, March 2010
 Instructor at UT Austin for:
-- [https://www.ma.utexas.edu/academics/courses/course-syllabi M 408K: Differential Calculus], UT Austin, Aug. 2020 - Dec. 2020
+- [https://www.ma.utexas.edu/academics/courses/course-syllabi M 408K: Differential Calculus], UT Austin, Aug. 2021 - Dec. 2021
 - [https://www.ma.utexas.edu/academics/courses/course-syllabi M 408N: Differential Calculus for Science], UT Austin, Jan. 2021 - May 2021
+- [https://www.ma.utexas.edu/academics/courses/course-syllabi M 408K: Differential Calculus], UT Austin, Aug. 2020 - Dec. 2020
 
 Teaching assistant at Penn State and Peking University for:
-- MATH 497: Deep Learning Algorithms and Analysis , Penn State University, Jul. 2019
+- MATH 497: Deep Learning Algorithms and Analysis , Penn State University, Jun. 2019
 - An Introduction for Applied Mathematics, Peking University, Feb. 2017 - Jun. 2017
 - Advanced Linear Algebra I, Peking University, Sept. 2016 - Jan. 2017
 - Calculus, Peking University, Sept. 2015 - Jan. 2016
@@ -105,6 +106,7 @@ Peking University, China.
 #- [code_gen_impl_slides.pdf *Code Generation for Embedded Convex Optimization*],
 #  given at Stanford University in October 2010, and [http://www.jpl.nasa.gov/ NASA
 #  JPL] and [http://www.caltech.edu/ Caltech] in November 2010.
+- [https://fecircus.math.psu.edu The Finite Element Circus Fall 2021], Penn State University, University Park, USA, Nov. 2021.
 - [https://sites.google.com/view/math-purdue-workshop/schedule IMA Workshop on Mathematical Foundation and Applications of Deep Learning], Purdue University, West Lafayette (Online), USA, Aug. 2021.
 - The First Young Scholar Forum, Peking University Chongqing Research Institute of Big Data, Chongqing (Online, invited talk), China, Jul. 2021.
 - [https://ccma.math.psu.edu/2020workshop/ Workshop on Mathematical Machine Learning and Application], Penn State University, University Park (Online, invited talk), USA, Dec. 2020.

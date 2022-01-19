@@ -60,11 +60,11 @@ My research interests are in algorithm development and theoretical analysis for 
 #- [http://stanford.edu/~boyd/papers/code_gen_impl.html CVXGEN: A Code Generator
 #  for Embedded Convex Optimization], J. Mattingley and S. Boyd,
 #  /Optimization and Engineering/, 13(1):1--27, 2012
-- Q. Chen, W. Hao and *J. He*. Power Series Expansion Neural Network. /Journal of Computational Science/. 2022. [https://doi.org/10.1016/j.jocs.2021.101552 https://doi.org/10.1016/j.jocs.2021.101552] [https://arxiv.org/abs/2102.13221 ArXiv: 2102.13221].
+- Q. Chen, W. Hao and *J. He*. Power Series Expansion Neural Network. /Journal of Computational Science/. 59, 2022. [https://doi.org/10.1016/j.jocs.2021.101552 https://doi.org/10.1016/j.jocs.2021.101552] [https://arxiv.org/abs/2102.13221 ArXiv: 2102.13221].
 - Q. Chen, W. Hao and *J. He*. A Weight Initialization Based on the Linear Product Structure for Neural Networks. /Applied Mathematics and Computation/. 415, 2022. [https://www.sciencedirect.com/science/article/pii/S0096300321008067?dgcid=coauthor doi.org/10.1016/j.amc.2021.126722] [https://arxiv.org/abs/2109.00125 ArXiv: 2109.00125].
 - *J. He*, X. Jia, J. Xu, L. Zhang and L. Zhao. Make $\ell_1$ Regularization Effective in Training Sparse CNN. /Computational Optimization and Applications/. 77: 163–182, 2020. [https://link.springer.com/article/10.1007/s10589-020-00202-1 https://doi.org/10.1007/s10589-020-00202-1] [https://arxiv.org/abs/1807.04222 ArXiv: 1807.04222v4].
 - *J. He*, L. Li, J. Xu, and C. Zheng. ReLU Deep Neural Networks and Linear Finite Elements. /Journal of Computational Mathematics/. 38(3): 502-527, 2020. [http://www.global-sci.org/intro/article_detail/jcm/15798.html doi:10.4208/jcm.1810-m2018-0096].
-- *J. He*, K. Hu and J. Xu. Generalized Gaffney Inequality and Discrete Compactness for Discrete Differential Forms. /Numerische Mathematik/. 2019. [https://link.springer.com/article/10.1007%2Fs00211-019-01076-0 https://doi.org/10.1007/s00211-019-01076-0].
+- *J. He*, K. Hu and J. Xu. Generalized Gaffney Inequality and Discrete Compactness for Discrete Differential Forms. /Numerische Mathematik/. 143: 781–795, 2019. [https://link.springer.com/article/10.1007%2Fs00211-019-01076-0 https://doi.org/10.1007/s00211-019-01076-0].
 - *J. He* and J. Xu. MgNet: A Unified Framework of Multigrid and Convolutional Neural Network. /Science China Mathematics/. 62(7): 1331–1354, 2019. [https://link.springer.com/article/10.1007%2Fs11425-019-9547-2 https://doi.org/10.1007/s11425-019-9547-2].
 - *J. He*, J. Xu, L. Zhang and J. Zhu. An Interpretive Constrained Linear Model for ResNet and MgNet. [https://arxiv.org/abs/2112.07441 ArXiv: 2112.07441
 ], 2021.

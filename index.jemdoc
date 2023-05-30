@@ -65,7 +65,7 @@ My research interests are in algorithm development and theoretical analysis for 
 #- [http://stanford.edu/~boyd/papers/code_gen_impl.html CVXGEN: A Code Generator
 #  for Embedded Convex Optimization], J. Mattingley and S. Boyd,
 #  /Optimization and Engineering/, 13(1):1--27, 2012
-- J. Zhu, *J. He* and Q. Huang. An Enhanced V-cycle MgNet Model for Operator Learning in Numerical Partial Differential Equations. /Computational Geosciences/ 2023. \[[https://arxiv.org/abs/2302.00938 ArXiv]\].
+- J. Zhu, *J. He* and Q. Huang. An Enhanced V-cycle MgNet Model for Operator Learning in Numerical Partial Differential Equations. Accepted by /Computational Geosciences/ 2023. \[[https://arxiv.org/abs/2302.00938 ArXiv]\].
 - J. Zhu, *J. He*, L. Zhang and J. Xu. FV-MgNet: Fully Connected V-cycle MgNet for Interpretable Time Series Forecasting. /Journal of Computational Science/ 69: 102005, 2023. [https://www.sciencedirect.com/science/article/pii/S1877750323000650 https://doi.org/10.1016/j.jocs.2023.102005] \[[https://arxiv.org/abs/2302.00962 ArXiv]\].
 - *J. He*, J. Xu, L. Zhang and J. Zhu. An Interpretive Constrained Linear Model for ResNet and MgNet. /Neural Networks./ 162: 384-392, 2023. [https://authors.elsevier.com/a/1gnJX3BBjKnuZ4 https://doi.org/10.1016/j.neunet.2023.03.011] \[[https://arxiv.org/abs/2112.07441 ArXiv]\].
 - *J. He*, R. Tsai and R. Ward. Side Effects of Learning from Low-dimensional Data Embedded in a Euclidean Space. /Research in the Mathematical Sciences./ 10(13), 2023. [https://doi.org/10.1007/s40687-023-00378-y https://doi.org/10.1007/s40687-023-00378-y] \[[https://arxiv.org/abs/2203.00614 ArXi]\].

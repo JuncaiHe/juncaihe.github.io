@@ -9,7 +9,7 @@
 - *J. He*. On the Optimal Expressive Power of ReLU DNNs and Its Application in Approximation with Kolmogorov Superposition Theorem. [https://arxiv.org/abs/2308.05509 ArXiv:2308.05509], 2023.
 
 == Published and Accepted
-- L. Liu, *J. He* and R. Tsai. Linear Regression on Manifold Structured Data: The Impact of Extrinsic Geometry on Solutions. Accepted to ICML2023 TAGML23 workshop, to be published in PMLR. [https://arxiv.org/abs/2307.02478 ArXiv:2307.02478]
+- L. Liu, *J. He* and R. Tsai. Linear Regression on Manifold Structured Data: The Impact of Extrinsic Geometry on Solutions. /Topological, Algebraic and Geometric Learning Workshops at ICML2023./ [https://proceedings.mlr.press/v221/liu23b.html, PMLR 221:557-576], 2023. \[[https://arxiv.org/abs/2307.02478 ArXiv]\].
 - J. Zhu\*, *J. He\** and Q. Huang. An Enhanced V-cycle MgNet Model for Operator Learning in Numerical Partial Differential Equations.  /Computational Geosciences/ 2023. [https://link.springer.com/article/10.1007/s10596-023-10211-8 DOI:10.1007/s10596-023-10211-8]  \[[https://arxiv.org/abs/2302.00938 ArXiv]\].
 - J. Zhu, *J. He*, L. Zhang and J. Xu. FV-MgNet: Fully Connected V-cycle MgNet for Interpretable Time Series Forecasting. /Journal of Computational Science/ 69: 102005, 2023. [https://www.sciencedirect.com/science/article/pii/S1877750323000650 https://doi.org/10.1016/j.jocs.2023.102005] \[[https://arxiv.org/abs/2302.00962 ArXiv]\].
 - *J. He*, J. Xu, L. Zhang and J. Zhu. An Interpretive Constrained Linear Model for ResNet and MgNet. /Neural Networks./ 162: 384-392, 2023. [https://authors.elsevier.com/a/1gnJX3BBjKnuZ4 https://doi.org/10.1016/j.neunet.2023.03.011] \[[https://arxiv.org/abs/2112.07441 ArXiv]\].

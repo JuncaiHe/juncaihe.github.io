@@ -7,11 +7,11 @@
 - *J. He*, T. Mao and J. Xu. Expressivity and Approximation Properties of Deep Neural Networks with ${\rm ReLU}^k$ Activation. [https://arxiv.org/abs/2312.16483 ArXiv:2312.16483
 ], 2023.
 - *J. He* and J. Xu. Deep Neural Networks and Finite Elements of Any Order on Arbitrary Dimensions. [https://arxiv.org/abs/2312.14276 ArXiv:2312.14276], 2023.
-- *J. He*, X. Liu and J. Xu. MgNO: Efficient Parameterization of Linear Operators via Multigrid. [https://arxiv.org/abs/2310.19809 ArXiv:2310.19809], [https://www.researchgate.net/publication/374848834_MgNO_Efficient_Parameterization_of_Linear_Operators_via_Multigrid ResearchGate], Submitted to ICLR2024, 2023.
 - H. Huang te al. AceGPT, Localizing Large Language Models in Arabic. [https://arxiv.org/abs/2309.12053 ArXiv:2309.12053], 2023.
 - *J. He*. On the Optimal Expressive Power of ReLU DNNs and Its Application in Approximation with Kolmogorov Superposition Theorem. [https://arxiv.org/abs/2308.05509 ArXiv:2308.05509], 2023.
 
 == Published and Accepted
+- *J. He*, X. Liu and J. Xu. MgNO: Efficient Parameterization of Linear Operators via Multigrid. Accepted for /ICLR 2024/, [https://arxiv.org/abs/2310.19809 ArXiv:2310.19809], [https://www.researchgate.net/publication/374848834_MgNO_Efficient_Parameterization_of_Linear_Operators_via_Multigrid ResearchGate], 2023.
 - L. Liu, *J. He* and R. Tsai. Linear Regression on Manifold Structured Data: The Impact of Extrinsic Geometry on Solutions. /Topological, Algebraic and Geometric Learning Workshops at ICML2023./ [https://proceedings.mlr.press/v221/liu23b.html PMLR 221:557-576], [https://proceedings.mlr.press/v221/liu23a/liu23a.pdf Published PDF] 2023. \[[https://arxiv.org/abs/2307.02478 ArXiv]\].
 - J. Zhu\*, *J. He\** and Q. Huang. An Enhanced V-cycle MgNet Model for Operator Learning in Numerical Partial Differential Equations.  /Computational Geosciences/ 2023. [https://link.springer.com/article/10.1007/s10596-023-10211-8 DOI:10.1007/s10596-023-10211-8]  \[[https://arxiv.org/abs/2302.00938 ArXiv]\].
 - J. Zhu, *J. He*, L. Zhang and J. Xu. FV-MgNet: Fully Connected V-cycle MgNet for Interpretable Time Series Forecasting. /Journal of Computational Science/ 69: 102005, 2023. [https://www.sciencedirect.com/science/article/pii/S1877750323000650 https://doi.org/10.1016/j.jocs.2023.102005] \[[https://arxiv.org/abs/2302.00962 ArXiv]\].

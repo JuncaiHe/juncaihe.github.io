@@ -3,16 +3,17 @@
 = Publications
 
 
-== Preprints
+== Preprints and Submitted
+-  J. Zhu, H. Huang, Z. Lin, J. Liang, Z. Tang, K. Almubarak, M. Alharthi, B. An, *J. He*, X. Wu, F. Yu, J. Chen, Z. Ma, Y. Du, Y. Hu, H. Zhang, E. Alghamdi, L. Zhang, R. Sun, H. Li, J. Xu, B. Wang. Second Language (Arabic) Acquisition of LLMs via Progressive Vocabulary Expansion. Submitted Conference On Language Modeling (COLM) 2024.
 - *J. He*, L. Liu and R. Tsai. Data-induced Multiscale Losses and Efficient Multirate Gradient Descent Schemes. [https://arxiv.org/abs/2402.03021 ArXiv:2402.03021], 2024.
 - Y. Yang and *J. He*: Deeper or Wider: A Perspective from Optimal Generalization Error with Sobolev Loss. [https://arxiv.org/abs/2402.00152 ArXiv:2402.00152], 2024.
 - *J. He*, T. Mao and J. Xu. Expressivity and Approximation Properties of Deep Neural Networks with ${\rm ReLU}^k$ Activation. [https://arxiv.org/abs/2312.16483 ArXiv:2312.16483
 ], 2023.
 - *J. He* and J. Xu. Deep Neural Networks and Finite Elements of Any Order on Arbitrary Dimensions. [https://arxiv.org/abs/2312.14276 ArXiv:2312.14276], 2023.
-- H. Huang te al. AceGPT, Localizing Large Language Models in Arabic. [https://arxiv.org/abs/2309.12053 ArXiv:2309.12053], 2023.
 - *J. He*. On the Optimal Expressive Power of ReLU DNNs and Its Application in Approximation with Kolmogorov Superposition Theorem. [https://arxiv.org/abs/2308.05509 ArXiv:2308.05509], 2023.
 
 == Published and Accepted
+- H. Huang, F. Yu, J. Zhu, X. Sun, H. Cheng, D. Song, Z. Chen, M. Alharthi, B. An, *J. He*, Z. Liu, Z. Zhang, J. Chen, J. Li, B. Wang, L. Zhang, R. Sun, X. Wan, H. Li, J. Xu. AceGPT, Localizing Large Language Models in Arabic. Accepted for [https://openreview.net/forum?id=JvO3zRu9MZP /NAACL 2024/], [https://arxiv.org/abs/2309.12053 ArXiv:2309.12053], 2024.
 - *J. He*, X. Liu and J. Xu. MgNO: Efficient Parameterization of Linear Operators via Multigrid. Accepted for [https://openreview.net/forum?id=8OxL034uEr /ICLR 2024/], 2024. \[[https://arxiv.org/abs/2310.19809 ArXiv]\], \[[https://www.researchgate.net/publication/374848834_MgNO_Efficient_Parameterization_of_Linear_Operators_via_Multigrid ResearchGate]\]
 - L. Liu, *J. He* and R. Tsai. Linear Regression on Manifold Structured Data: The Impact of Extrinsic Geometry on Solutions. /Topological, Algebraic and Geometric Learning Workshops at ICML2023./ [https://proceedings.mlr.press/v221/liu23b.html PMLR 221:557-576], [https://proceedings.mlr.press/v221/liu23a/liu23a.pdf Published PDF] 2023. \[[https://arxiv.org/abs/2307.02478 ArXiv]\].
 - J. Zhu\*, *J. He\** and Q. Huang. An Enhanced V-cycle MgNet Model for Operator Learning in Numerical Partial Differential Equations.  /Computational Geosciences/ 2023. [https://link.springer.com/article/10.1007/s10596-023-10211-8 DOI:10.1007/s10596-023-10211-8]  \[[https://arxiv.org/abs/2302.00938 ArXiv]\].

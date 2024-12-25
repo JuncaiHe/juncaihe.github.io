@@ -9,9 +9,10 @@
 - *J. He*, T. Mao and J. Xu. Expressivity and Approximation Properties of Deep Neural Networks with ${\rm ReLU}^k$ Activation. [https://arxiv.org/abs/2312.16483 ArXiv:2312.16483
 ], 2023.
 - *J. He* and J. Xu. Deep Neural Networks and Finite Elements of Any Order on Arbitrary Dimensions. [https://arxiv.org/abs/2312.14276 ArXiv:2312.14276], 2023.
-- *J. He*. On the Optimal Expressive Power of ReLU DNNs and Its Application in Approximation with Kolmogorov Superposition Theorem. [https://arxiv.org/abs/2308.05509 ArXiv:2308.05509], 2023.
+
 
 == Published and Accepted
+- - *J. He*. On the Optimal Expressive Power of ReLU DNNs and Its Application in Approximation with Kolmogorov Superposition Theorem. /IEEE Transactions on Neural Networks and Learning Systems/, 2024. [https://ieeexplore.ieee.org/abstract/document/10804852 DOI: 10.1109/TNNLS.2024.3514126] \[[https://arxiv.org/abs/2308.05509 ArXiv]\].
 - J. Liang, Z. Cai, J. Zhu, H. Huang, K. Zong, B. An, M. Alharthi, *J. He*, L. Zhang, H. Li, B. Wang and J. Xu. Alignment at Pre-training! Towards Native Alignment for Arabic LLMs. Accepted for [https://nips.cc/virtual/2024/poster/93121 NeurIPS 2024].
 - Y. Yang and *J. He*: Deeper or Wider: A Perspective from Optimal Generalization Error with Sobolev Loss. Accepted for /ICML 2024/, [https://arxiv.org/abs/2402.00152 ArXiv:2402.00152], 2024.
 - H. Huang, F. Yu, J. Zhu, X. Sun, H. Cheng, D. Song, Z. Chen, M. Alharthi, B. An, *J. He*, Z. Liu, Z. Zhang, J. Chen, J. Li, B. Wang, L. Zhang, R. Sun, X. Wan, H. Li, J. Xu. AceGPT, Localizing Large Language Models in Arabic. Accepted for [https://openreview.net/forum?id=JvO3zRu9MZP /NAACL 2024/], [https://arxiv.org/abs/2309.12053 ArXiv:2309.12053], 2024.

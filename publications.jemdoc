@@ -4,18 +4,20 @@
 
 
 == Preprints and Submitted
--  J. Zhu, H. Huang, Z. Lin, J. Liang, Z. Tang, K. Almubarak, M. Alharthi, B. An, *J. He*, X. Wu, F. Yu, J. Chen, Z. Ma, Y. Du, Y. Hu, H. Zhang, E. Alghamdi, L. Zhang, R. Sun, H. Li, J. Xu, B. Wang. Second Language (Arabic) Acquisition of LLMs via Progressive Vocabulary Expansion. Submitted to ACL Rolling Review - August 2024.
+- Y. Yang and *J. He\**. Deep Neural Networks with General Activations: Super-Convergence in Sobolev Norms. [https://arxiv.org/abs/2508.05141 ArXiv:2508.05141], 2025.
+- H. Wu, Y. Gao, R. Shu, K. Wang, R. Gou, C. Wu, X. Liu,  *J. He*, S. Cao, J. Fang, X. Shi, F. Tao, Q. Song, S. Ji, Y. Xiang, Y. Sun, J. Li, F. Xu, H. Dong, H. Wang, F. Zhang, P. Zhao, X. Wu, Q. Wen, D. Chen, and X. Huang. Advanced Long-term Earth System Forecasting by Learning the Small-scale Nature. [https://arxiv.org/abs/2505.19432 ArXiv:2505.19432], 2025.
 - *J. He*, L. Liu and R. Tsai. Data-induced Multiscale Losses and Efficient Multirate Gradient Descent Schemes. [https://arxiv.org/abs/2402.03021 ArXiv:2402.03021], 2024.
-- *J. He*, T. Mao and J. Xu. Expressivity and Approximation Properties of Deep Neural Networks with ${\rm ReLU}^k$ Activation. [https://arxiv.org/abs/2312.16483 ArXiv:2312.16483
-], 2023.
-- *J. He* and J. Xu. Deep Neural Networks and Finite Elements of Any Order on Arbitrary Dimensions. [https://arxiv.org/abs/2312.14276 ArXiv:2312.14276], 2023.
+- *J. He*, T. Mao and J. Xu. Expressivity and Approximation Properties of Deep Neural Networks with ${\rm ReLU}^k$ Activation. [https://arxiv.org/abs/2312.16483 ArXiv:2312.16483], 2025.
+- *J. He* and J. Xu. Deep Neural Networks and Finite Elements of Any Order on Arbitrary Dimensions. [https://arxiv.org/abs/2312.14276 ArXiv:2312.14276], 2025.
 
 
 == Published and Accepted
-- - *J. He*. On the Optimal Expressive Power of ReLU DNNs and Its Application in Approximation with Kolmogorov Superposition Theorem. /IEEE Transactions on Neural Networks and Learning Systems/, 2024. [https://ieeexplore.ieee.org/abstract/document/10804852 DOI: 10.1109/TNNLS.2024.3514126] \[[https://arxiv.org/abs/2308.05509 ArXiv]\].
-- J. Liang, Z. Cai, J. Zhu, H. Huang, K. Zong, B. An, M. Alharthi, *J. He*, L. Zhang, H. Li, B. Wang and J. Xu. Alignment at Pre-training! Towards Native Alignment for Arabic LLMs. Accepted for [https://nips.cc/virtual/2024/poster/93121 NeurIPS 2024].
-- Y. Yang and *J. He*: Deeper or Wider: A Perspective from Optimal Generalization Error with Sobolev Loss. Accepted for /ICML 2024/, [https://arxiv.org/abs/2402.00152 ArXiv:2402.00152], 2024.
-- H. Huang, F. Yu, J. Zhu, X. Sun, H. Cheng, D. Song, Z. Chen, M. Alharthi, B. An, *J. He*, Z. Liu, Z. Zhang, J. Chen, J. Li, B. Wang, L. Zhang, R. Sun, X. Wan, H. Li, J. Xu. AceGPT, Localizing Large Language Models in Arabic. Accepted for [https://openreview.net/forum?id=JvO3zRu9MZP /NAACL 2024/], [https://arxiv.org/abs/2309.12053 ArXiv:2309.12053], 2024.
+- *J. He*. On the Optimal Expressive Power of ReLU DNNs and Its Application in Approximation with Kolmogorov Superposition Theorem. /IEEE Transactions on Neural Networks and Learning Systems/, 36(8) 13886 - 13899, 2025. [https://ieeexplore.ieee.org/abstract/document/10804852 DOI: 10.1109/TNNLS.2024.3514126] \[[https://arxiv.org/abs/2308.05509 ArXiv]\].
+- G. Bao, Y. Zhao, *J. He* and Y. Zhang. Glimpse: Enabling White-Box Methods to Use Proprietary Models for Zero-Shot LLM-Generated Text Detection. The Thirteenth International Conference on Learning Representations ([https://openreview.net/forum?id=an3fugFA23 /ICLR 2025/]). \[[https://arxiv.org/abs/2412.11506 ArXiv:2412.11506]\].
+- J. Zhu, H. Huang, Z. Lin, J. Liang, Z. Tang, K. Almubarak, M. Alharthi, B. An, *J. He*, X. Wu, F. Yu, J. Chen, Z. Ma, Y. Du, Y. Hu, H. Zhang, E. Alghamdi, L. Zhang, R. Sun, H. Li, J. Xu, B. Wang. Second Language (Arabic) Acquisition of LLMs via Progressive Vocabulary Expansion. [https://aclanthology.org/2025.acl-long.100/ ACL 2025 Oral].
+- J. Liang, Z. Cai, J. Zhu, H. Huang, K. Zong, B. An, M. Alharthi, *J. He*, L. Zhang, H. Li, B. Wang and J. Xu. Alignment at Pre-training! Towards Native Alignment for Arabic LLMs.  The 38th International Conference on Neural Information Processing Systems ([https://dl.acm.org/doi/10.5555/3737916.3738361 /NeurIPS 2024/]).
+- Y. Yang and *J. He\**: Deeper or Wider: A Perspective from Optimal Generalization Error with Sobolev Loss. The 41st International Conference on Machine Learning ([https://dl.acm.org/doi/10.5555/3692070.3694385 /ICML 2024/]), [https://arxiv.org/abs/2402.00152 ArXiv:2402.00152], 2024.
+- H. Huang, F. Yu, J. Zhu, X. Sun, H. Cheng, D. Song, Z. Chen, M. Alharthi, B. An, *J. He*, Z. Liu, Z. Zhang, J. Chen, J. Li, B. Wang, L. Zhang, R. Sun, X. Wan, H. Li, J. Xu. AceGPT, Localizing Large Language Models in Arabic. [https://openreview.net/forum?id=JvO3zRu9MZP /NAACL 2024/], [https://arxiv.org/abs/2309.12053 ArXiv:2309.12053], 2024.
 - *J. He*, X. Liu and J. Xu. MgNO: Efficient Parameterization of Linear Operators via Multigrid. The Twelfth International Conference on Learning Representations ([https://openreview.net/forum?id=8OxL034uEr /ICLR 2024/]). \[[https://recorder-v3.slideslive.com/?share=91452&s=698cd561-7633-4604-ae0a-ee533e06255e Video Record]\], \[[https://arxiv.org/abs/2310.19809 ArXiv]\], \[[https://www.researchgate.net/publication/374848834_MgNO_Efficient_Parameterization_of_Linear_Operators_via_Multigrid ResearchGate]\].
 - L. Liu, *J. He* and R. Tsai. Linear Regression on Manifold Structured Data: The Impact of Extrinsic Geometry on Solutions. /Topological, Algebraic and Geometric Learning Workshops at ICML2023./ [https://proceedings.mlr.press/v221/liu23b.html PMLR 221:557-576], [https://proceedings.mlr.press/v221/liu23a/liu23a.pdf Published PDF] 2023. \[[https://arxiv.org/abs/2307.02478 ArXiv]\].
 - J. Zhu\*, *J. He\** and Q. Huang. An Enhanced V-cycle MgNet Model for Operator Learning in Numerical Partial Differential Equations.  /Computational Geosciences/ 2023. [https://link.springer.com/article/10.1007/s10596-023-10211-8 DOI:10.1007/s10596-023-10211-8]  \[[https://arxiv.org/abs/2302.00938 ArXiv]\].
@@ -35,4 +37,4 @@
 #  for Embedded Convex Optimization], J. Mattingley and S. Boyd,
 #  /Optimization and Engineering/, 13(1):1--27, 2012
 
-\*:  equal contributions
+\*:  equal contributions or corresponding author.

@@ -48,9 +48,8 @@ From 2020 to 2022, I was an R.H. Bing postdoctoral fellow working with [https://
 
 
 == Research
-- Deep Learning, Stochastic Optimization.
+- Theory and Algorithms of Deep Neural Networks and Operators, Stochastic Optimization.
 - Numerical Analysis, Finite Element Methods, Multigrid Methods.
-
 
 My research focuses on mathematical analysis, algorithm development, and their applications in machine learning and scientific computing, spanning both data and physical sciences. My Ph.D. training was grounded in classical numerical methods for partial differential equations (PDEs), with a particular emphasis on finite element methods (FEM) and multigrid methods. Armed with this solid foundation in numerical PDEs and scientific computing, my primary research objective is to explore deep learning models and algorithms through the lens of numerical PDEs and geometry. This approach aims to foster a comprehensive understanding and innovative advancement of these models, covering theoretical foundations, algorithmic strategies, and practical applications. From my Ph.D. program to the present, and continuing into the foreseeable future, my research efforts and aspirations are principally centered on three interrelated themes:
 . Mathematical analysis of deep neural networks (DNNs) from a finite element perspective;

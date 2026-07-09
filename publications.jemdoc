@@ -7,14 +7,14 @@
 - *J. He* and Z. Tian. Sharp Sobolev Sandwich and Approximation Rates of Radon-Domain $L^p$ Ridge Integral Spaces for ${\rm ReLU}^k$ Networks. [https://arxiv.org/abs/2606.24795 ArXiv:2606.24795], 2026.
 - S. Chen, *J. He* and X.-C. Tai. Neural Flow Operators can Approximate any Operator: Abstract Frameworks and Universal Approximations. [https://arxiv.org/abs/2605.22557 ArXiv:2605.22557], 2026.
 - *J. He*, X. Liu and Z. Tian. Divergence-free Linearized Neural Networks: Integral Representation and Optimal Approximation Rates. [https://arxiv.org/abs/2603.28638 ArXiv:2603.28638], 2026.
-- *J. He*, X. Liu and J. Xu. Self-Composing Neural Operators with Depth and Accuracy Scaling via Adaptive Train-and-Unroll Approach. [https://arxiv.org/abs/2508.20650 ArXiv: 2508.20650], 2025.
 - Y. Yang and *J. He\**. Deep Neural Networks with General Activations: Super-Convergence in Sobolev Norms. [https://arxiv.org/abs/2508.05141 ArXiv:2508.05141], 2025.
 - H. Wu, Y. Gao, R. Shu, K. Wang, R. Gou, C. Wu, X. Liu,  *J. He*, S. Cao, J. Fang, X. Shi, F. Tao, Q. Song, S. Ji, Y. Xiang, Y. Sun, J. Li, F. Xu, H. Dong, H. Wang, F. Zhang, P. Zhao, X. Wu, Q. Wen, D. Chen, and X. Huang. Advanced Long-term Earth System Forecasting by Learning the Small-scale Nature. [https://arxiv.org/abs/2505.19432 ArXiv:2505.19432], 2025.
 - *J. He*, T. Mao and J. Xu. Expressivity and Approximation Properties of Deep Neural Networks with ${\rm ReLU}^k$ Activation. [https://arxiv.org/abs/2312.16483 ArXiv:2312.16483], 2023.
 - *J. He* and J. Xu. Deep Neural Networks and Finite Elements of Any Order on Arbitrary Dimensions. [https://arxiv.org/abs/2312.14276 ArXiv:2312.14276], 2023.
 
 
-== Publicaed and Accepted
+== Published and Accepted
+- *J. He*, X. Liu and J. Xu. Self-composing neural operators for high-frequency and multiscale PDE surrogates. /Journal of Computational Physics/. 115189, 2026. [https://doi.org/10.1016/j.jcp.2026.115189 DOI: 10.1016/j.jcp.2026.115189] \[[https://arxiv.org/abs/2508.20650 ArXiv:2508.20650]\].
 - *J. He*, L. Liu and R. Tsai. Data-Induced Multiscale Losses and Efficient Multirate Gradient Descent Schemes. /Journal of Intelligent Algorithms and Scientific Computing/. 1(1): 44-87, 2026. [https://doi.org/10.4208/jiasc.2026-91-1 DOI: 10.4208/jiasc.2026-91-1] \[[https://arxiv.org/abs/2402.03021 ArXiv:2402.03021]\].
 - Z. Yang, Z. Tian, Y. Jia, T. Zhang, J. Zheng, H. Wang, Y. Su,  *J. He*, L. Liu, Y. Lan. Cross-Chirality Generalization by Axial Vectors for Hetero-Chiral Protein-Peptide Interaction Design. [https://arxiv.org/abs/2602.20176 ArXiv:2602.20176], 2026. Accepted by /ICML 2026/.
 - *J. He*. On the Optimal Expressive Power of ReLU DNNs and Its Application in Approximation with Kolmogorov Superposition Theorem. /IEEE Transactions on Neural Networks and Learning Systems/, 36(8) 13886 - 13899, 2025. [https://ieeexplore.ieee.org/abstract/document/10804852 DOI: 10.1109/TNNLS.2024.3514126] \[[https://arxiv.org/abs/2308.05509 ArXiv]\].
